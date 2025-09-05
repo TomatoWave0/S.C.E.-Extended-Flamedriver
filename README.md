@@ -1,3 +1,5 @@
+I made this before realizing that a branch of S.C.E with flamedriver is actively updated. You can still use this if you want, but it's pretty outdated compared to more recent versions of S.C.E
+
 SONIC-CLEAN-ENGINE-S.C.E.-EXTENDED- + Flamedriver
 
 S.C.E. Extended with Flamedriver installed.
