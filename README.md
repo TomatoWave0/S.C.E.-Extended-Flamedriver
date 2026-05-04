@@ -35,7 +35,7 @@ These projects are based on this source code:
 - TishaProject (2019)
 - Sonic Virtual Adventure (2017) (Cancelled) — In the past I made this source code specifically for this project (:
 
-Check out the Sonic Retro source code:
+Sonic Retro disassemblies:
 
 https://github.com/sonicretro/s1disasm
 https://github.com/sonicretro/s2disasm
