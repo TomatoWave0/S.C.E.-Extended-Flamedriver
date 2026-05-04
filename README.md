@@ -1,4 +1,4 @@
-I made this before realizing that a branch of S.C.E with Flamedriver is actively updated. You can still use this if you want, but it's pretty outdated compared to more recent versions of S.C.E
+I made this before realizing that a branch of S.C.E Extended with Flamedriver is actively updated. You can still use this if you want, but it's pretty outdated compared to more recent versions of S.C.E
 
 
 
